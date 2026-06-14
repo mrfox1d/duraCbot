@@ -14,10 +14,10 @@ ADMIN_ID: int = int(os.getenv("ADMIN_ID", "123456789"))
 TEAM_CHAT_ID: int = int(os.getenv("TEAM_CHAT_ID", "-1001234567890"))
 
 # ─── Ссылка на канал со скринами праков ──────────────────────────────────────
-SCREENSHOTS_CHANNEL_URL: str = "https://t.me/durac_team_screens"
+SCREENSHOTS_CHANNEL_URL: str = "https://t.me/teamduraC"
 
 # ─── Ссылка на Parallel (заглушка) ───────────────────────────────────────────
-PARALLEL_LINK: str = "https://parallel.com/durac"
+PARALLEL_LINK: str = "https://link.parallelchat.app/?redirect=https://parallel.go.link/5j2HM"
 
 # ─── Тег и название команды ───────────────────────────────────────────────────
 TEAM_TAG: str = "[duraC]"
